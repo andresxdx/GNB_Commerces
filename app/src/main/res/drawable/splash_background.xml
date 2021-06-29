@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item android:drawable="@color/white"/>
+
+    <item
+        android:drawable="@drawable/ic_gnb_logo"
+        android:gravity="center"
+        android:left="30dp"
+        android:right="30dp"
+        android:top="250dp"
+        android:bottom="250dp"
+        />
+
+</layer-list>
